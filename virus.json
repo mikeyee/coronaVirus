@@ -1,0 +1,822 @@
+{
+  "nodes": [
+  
+	{
+    "id": 1,
+    "residence": "C",
+    "localImport": "I",
+    "sex": "M",
+    "age": 39,
+    "dateOfSick": "21/1",
+    "dateOfConfirm": "",
+    "remark": "武漢人"
+  },
+  {
+    "id": 2,
+    "residence": "H",
+    "localImport": "I",
+    "sex": "M",
+    "age": 56,
+    "dateOfSick": "18/1",
+    "dateOfConfirm": "",
+    "remark": "曾遊武漢"
+  },
+  {
+    "id": 3,
+    "residence": "C",
+    "localImport": "I",
+    "sex": "F",
+    "age": 62,
+    "dateOfSick": "20/1",
+    "dateOfConfirm": "",
+    "remark": "武漢人"
+  },
+  {
+    "id": 4,
+    "residence": "C",
+    "localImport": "I",
+    "sex": "F",
+    "age": 62,
+    "dateOfSick": "23/1",
+    "dateOfConfirm": "",
+    "remark": "武漢人"
+  },
+  {
+    "id": 5,
+    "residence": "C",
+    "localImport": "I",
+    "sex": "M",
+    "age": 63,
+    "dateOfSick": "24/1",
+    "dateOfConfirm": "",
+    "remark": "武漢人"
+  },
+  {
+    "id": 6,
+    "residence": "H",
+    "localImport": "I",
+    "sex": "M",
+    "age": 47,
+    "dateOfSick": "21/1",
+    "dateOfConfirm": "",
+    "remark": "武漢收銀員"
+  },
+  {
+    "id": 7,
+    "residence": "H",
+    "localImport": "I",
+    "sex": "F",
+    "age": 68,
+    "dateOfSick": "21/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "residence": "C",
+    "localImport": "I",
+    "sex": "M",
+    "age": 64,
+    "dateOfSick": "28/1",
+    "dateOfConfirm": "",
+    "remark": "武漢人"
+  },
+  {
+    "id": 9,
+    "residence": "C",
+    "localImport": "I",
+    "sex": "F",
+    "age": 73,
+    "dateOfSick": "25/1",
+    "dateOfConfirm": "",
+    "remark": "武漢人入住四季"
+  },
+  {
+    "id": 10,
+    "residence": "C",
+    "localImport": "I",
+    "sex": "M",
+    "age": 72,
+    "dateOfSick": "25/1",
+    "dateOfConfirm": "",
+    "remark": "武漢人入住四季"
+  },
+  {
+    "id": 11,
+    "residence": "H",
+    "localImport": "I",
+    "sex": "F",
+    "age": 37,
+    "dateOfSick": "28/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 75,
+    "dateOfSick": "22/1",
+    "dateOfConfirm": "",
+    "remark": "康美樓住客"
+  },
+  {
+    "id": 13,
+    "residence": "H",
+    "localImport": "I",
+    "sex": "M",
+    "age": 39,
+    "dateOfSick": "29/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 80,
+    "dateOfSick": "23/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "residence": "H",
+    "localImport": "I",
+    "sex": "F",
+    "age": 72,
+    "dateOfSick": "1/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 64,
+    "dateOfSick": "23/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 60,
+    "dateOfSick": "22/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 25,
+    "dateOfSick": "28/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 28,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 56,
+    "dateOfSick": "4/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 56,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 55,
+    "dateOfSick": "1/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 63,
+    "dateOfSick": "26/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 65,
+    "dateOfSick": "28/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "residence": "H",
+    "localImport": "I",
+    "sex": "M",
+    "age": 58,
+    "dateOfSick": "4/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "residence": "H",
+    "localImport": "I",
+    "sex": "M",
+    "age": 42,
+    "dateOfSick": "3/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 24,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 70,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 91,
+    "dateOfSick": "1/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 68,
+    "dateOfSick": "29/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 57,
+    "dateOfSick": "29/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 22,
+    "dateOfSick": "28/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 50,
+    "dateOfSick": "2/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 25,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 51,
+    "dateOfSick": "5/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 36,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 23,
+    "dateOfSick": "7/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 37,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 55,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 38,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 69,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 63,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 40,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 86,
+    "dateOfSick": "28/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 52,
+    "dateOfSick": "8/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 62,
+    "dateOfSick": "3/2",
+    "dateOfConfirm": "",
+    "remark": "康美樓住客"
+  },
+  {
+    "id": 43,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 59,
+    "dateOfSick": "3/2",
+    "dateOfConfirm": "",
+    "remark": "傳道人"
+  },
+  {
+    "id": 44,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 60,
+    "dateOfSick": "1/2",
+    "dateOfConfirm": "",
+    "remark": "北京樓廚工"
+  },
+  {
+    "id": 45,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 71,
+    "dateOfSick": "5/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 75,
+    "dateOfSick": "3/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 47,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 66,
+    "dateOfSick": "31/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 48,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 37,
+    "dateOfSick": "2/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 49,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 37,
+    "dateOfSick": "30/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 50,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 51,
+    "dateOfSick": "12/2",
+    "dateOfConfirm": "",
+    "remark": "北京樓廚工"
+  },
+  {
+    "id": 51,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 43,
+    "dateOfSick": "29/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 67,
+    "dateOfSick": "31/1",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 37,
+    "dateOfSick": "8/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 41,
+    "dateOfSick": "3/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 70,
+    "dateOfSick": "2/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 61,
+    "dateOfSick": "12/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 54,
+    "dateOfSick": "16/2",
+    "dateOfConfirm": "",
+    "remark": "太古城住客"
+  },
+  {
+    "id": 58,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 69,
+    "dateOfSick": "8/2",
+    "dateOfConfirm": "",
+    "remark": "將軍澳怡明邨住客"
+  },
+  {
+    "id": 59,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 45,
+    "dateOfSick": "12/2",
+    "dateOfConfirm": "",
+    "remark": "工程師，曾訪醫管局"
+  },
+  {
+    "id": 60,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 46,
+    "dateOfSick": "8/2",
+    "dateOfConfirm": "",
+    "remark": "太古城住客"
+  },
+  {
+    "id": 61,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 32,
+    "dateOfSick": "20/2",
+    "dateOfConfirm": "",
+    "remark": "菲傭"
+  },
+  {
+    "id": 62,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "M",
+    "age": 58,
+    "dateOfSick": "11/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "residence": "H",
+    "localImport": "L",
+    "sex": "F",
+    "age": 83,
+    "dateOfSick": "14/2",
+    "dateOfConfirm": "",
+    "remark": ""
+  }
+  ],
+  "links": [
+    {
+    "source": 4,
+    "target": 5,
+    "type": "夫婦"
+  },
+  {
+    "source": 3,
+    "target": 8,
+    "type": "夫婦"
+  },
+  {
+    "source": 10,
+    "target": 9,
+    "type": "夫婦"
+  },
+  {
+    "source": 10,
+    "target": 11,
+    "type": "父女"
+  },
+  {
+    "source": 9,
+    "target": 11,
+    "type": "母女"
+  },
+  {
+    "source": 15,
+    "target": 13,
+    "type": "母子"
+  },
+  {
+    "source": 17,
+    "target": 20,
+    "type": "夫婦"
+  },
+  {
+    "source": 17,
+    "target": 19,
+    "type": "父女"
+  },
+  {
+    "source": 20,
+    "target": 19,
+    "type": "母女"
+  },
+  {
+    "source": 21,
+    "target": 22,
+    "type": "夫婦"
+  },
+  {
+    "source": 40,
+    "target": 39,
+    "type": "母女"
+  },
+  {
+    "source": 38,
+    "target": 39,
+    "type": "夫婦"
+  },
+  {
+    "source": 27,
+    "target": 36,
+    "type": "表兄弟"
+  },
+  {
+    "source": 30,
+    "target": 31,
+    "type": "夫婦"
+  },
+  {
+    "source": 30,
+    "target": 27,
+    "type": "父子"
+  },
+  {
+    "source": 31,
+    "target": 27,
+    "type": "母子"
+  },
+  {
+    "source": 29,
+    "target": 31,
+    "type": "母女"
+  },
+  {
+    "source": 29,
+    "target": 33,
+    "type": "母女"
+  },
+  {
+    "source": 29,
+    "target": 37,
+    "type": "母女"
+  },
+  {
+    "source": 29,
+    "target": 35,
+    "type": "母女"
+  },
+  {
+    "source": 41,
+    "target": 35,
+    "type": "夫婦"
+  },
+  {
+    "source": 41,
+    "target": 34,
+    "type": "父女"
+  },
+  {
+    "source": 35,
+    "target": 34,
+    "type": "母女"
+  },
+  {
+    "source": 41,
+    "target": 32,
+    "type": "父子"
+  },
+  {
+    "source": 35,
+    "target": 32,
+    "type": "母子"
+  },
+  {
+    "source": 46,
+    "target": 48,
+    "type": "父女"
+  },
+  {
+    "source": 42,
+    "target": 48,
+    "type": "婆媳"
+  },
+  {
+    "source": 37,
+    "target": 49,
+    "type": "母子"
+  },
+  {
+    "source": 44,
+    "target": 37,
+    "type": "同事"
+  },
+  {
+    "source": 12,
+    "target": 42,
+    "type": "鄰居"
+  },
+  {
+    "source": 37,
+    "target": 50,
+    "type": "同事"
+  },
+  {
+    "source": 54,
+    "target": 53,
+    "type": "表姊妺"
+  },
+  {
+    "source": 52,
+    "target": 46,
+    "type": "小姨"
+  },
+  {
+    "source": 51,
+    "target": 47,
+    "type": "姻親"
+  },
+  {
+    "source": 52,
+    "target": 61,
+    "type": "僱佣"
+  },
+  {
+    "source": 57,
+    "target": 60,
+    "type": "夫婦"
+  },
+  {
+    "source": 57,
+    "target": 59,
+    "type": "同事"
+  }
+  ]
+}
